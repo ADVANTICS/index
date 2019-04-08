@@ -2,9 +2,9 @@
 
 # Project index
 
-## [Private projects](https://github.com/ADVANTICS/index_private/README.md)
+## [Private projects](https://github.com/ADVANTICS/index_private/blob/master/README.md)
 
-[![](https://img.shields.io/badge/Click%20here-red.svg)](https://github.com/ADVANTICS/index_private/README.md) to go to the private projects index.
+[![](https://img.shields.io/badge/Click%20here-red.svg)](https://github.com/ADVANTICS/index_private/blob/master/README.md) to go to the private projects index.
 
 ## Public projects
 
