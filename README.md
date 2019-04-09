@@ -10,4 +10,4 @@
 
 ## Public projects
 
-...
+Please visit the product section on our [website](http://advantics.fr/products/). 
