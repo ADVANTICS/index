@@ -6,6 +6,8 @@
 
 [![](https://img.shields.io/badge/Click%20here-red.svg)](https://github.com/ADVANTICS/index_private/blob/master/README.md) to go to the private projects index.
 
+[![](https://img.shields.io/badge/Click%20here-red.svg)](https://github.com/ADVANTICS/index_private/blob/master/index_alphabetic.md) to go to the alphabetic private projects index.
+
 ## Public projects
 
 ...
