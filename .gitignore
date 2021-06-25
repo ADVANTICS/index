@@ -1,2 +1,5 @@
-# MacOS folder metadata
+### macOS
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
